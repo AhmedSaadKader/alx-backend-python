@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Module that contains sum_mixed_list function which takes a list mxd_lst of 
+"""Module that contains sum_mixed_list function which takes a list mxd_lst of
 integers and floats and returns their sum as a float
 """
 
