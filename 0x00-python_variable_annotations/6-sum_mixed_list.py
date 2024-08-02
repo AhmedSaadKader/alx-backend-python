@@ -4,6 +4,9 @@ integers and floats and returns their sum as a float
 """
 
 
-def sum_mixed_list(mxd_lst: list[int | float]) -> float:
+from typing import List
+
+
+def sum_mixed_list(mxd_lst: List[int | float]) -> float:
     """returns the sum of list items"""
     return sum(mxd_lst)
